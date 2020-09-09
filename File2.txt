@@ -3,3 +3,7 @@ Welcome to Git Demo
 change - to test half done in stash
 
 change - to test push to remote repo
+
+change - logout feature
+
+change - made by teammate thrugh push
