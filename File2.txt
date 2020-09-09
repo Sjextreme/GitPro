@@ -7,3 +7,5 @@ change - to test push to remote repo
 change - logout feature
 
 change - made by teammate thrugh push
+
+change - to test pull
